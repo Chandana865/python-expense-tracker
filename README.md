@@ -1,4 +1,4 @@
-\# Python Expense Tracker
+# Python Expense Tracker
 
 
 
@@ -6,33 +6,37 @@ A simple Python project to track and analyze daily expenses.
 
 
 
-\## Features
+## Features
 
-\- Add daily expenses
+- Add daily expenses
 
-\- View total spending
+- View total spending
 
-\- Category-wise analysis
-
-
-
-\## Technologies Used
-
-\- Python
-
-\- Pandas
-
-\- CSV file handling
+- Category-wise analysis
 
 
 
-\## How to Run
+## Technologies Used
 
-1\. Install Python
+- Python
 
-2\. Install pandas: pip install pandas
+- Pandas
 
-3\. Run: python expense\_tracker.py
+- CSV file handling
+
+
+
+## How to Run
+
+1. Install Python
+
+2. Install pandas: pip install pandas
+
+3. Run: python expense_tracker.py
+   
+This project was built as a learning exercise to understand Python file handling and data analysis.
+
+
 
 
 
