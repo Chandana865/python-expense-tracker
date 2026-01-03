@@ -18,7 +18,7 @@ def add_expense():
     df = df._append(new_data, ignore_index=True)
     df.to_csv(FILE_NAME, index=False)
 
-    print("Expense added successfully!")
+    print("Expense recorded successfully!")
 
 def view_summary():
     df = pd.read_csv(FILE_NAME)
@@ -41,3 +41,4 @@ while True:
         break
     else:
         print("Invalid choice")
+
